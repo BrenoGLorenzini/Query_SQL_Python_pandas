@@ -1,0 +1,11 @@
+ID,idade,nome_usuario,email,departamentoID
+1,25,João Silva,joao@example.com,1
+2,30,Maria Santos,maria@example.com,2
+3,28,Pedro Oliveira,pedro@example.com,3
+4,22,Ana Souza,ana@example.com,4
+5,32,Luiz Pereira,luiz@example.com,5
+6,27,Juliana Costa,juliana@example.com,1
+7,29,Rafael Almeida,rafael@example.com,2
+8,24,Camila Rodrigues,camila@example.com,3
+9,26,Gustavo Carvalho,gustavo@example.com,4
+10,31,Fernanda Lima,fernanda@example.com,5

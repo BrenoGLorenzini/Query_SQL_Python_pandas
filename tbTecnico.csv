@@ -1,0 +1,11 @@
+ID,nome_tec,idade,email,especialidadeID
+1,Ricardo Silva,27,ricardo@example.com,2
+2,Isabela Santos,22,isabela@example.com,3
+3,Fernando Costa,24,fernando@example.com,1
+4,Amanda Rodrigues,20,amanda@example.com,4
+5,André Oliveira,31,andre@example.com,2
+6,Carolina Pereira,33,carolina@example.com,3
+7,Gabriel Fernandes,30,gabriel@example.com,1
+8,Lúcia Almeida,40,lucia@example.com,4
+9,Mário Santos,24,mario@example.com,1
+10,Lara Lima,26,lara@example.com,2
